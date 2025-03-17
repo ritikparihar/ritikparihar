@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Python, SQL, TensorFlow, Predictive Modelling, Data Science projects, AI applications in healthcare (Diabetic Retinopathy Detection).**
 
-- ⚡ Fun fact **Self Hate: Its the real estate of Racism.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ritikparihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ritikparihar" height="30" width="40" /></a>
